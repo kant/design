@@ -41,7 +41,7 @@ data:
 kAppNav will supply built-in action definitions for Appsody.  Once supported, Appsody may be updated to register a 
 dynamic action definitions.    
 
-Thee following action definitions are the built-ins that will be added to kAppNav.  Note the complete list of actions 
+The following action definitions are the built-ins that will be added to kAppNav.  Note the complete list of actions 
 and the resources to which they apply is still being defined.
 
 
